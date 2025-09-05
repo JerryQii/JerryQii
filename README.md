@@ -6,7 +6,7 @@
 - 🌇 [UBC Insights](https://github.com/JerryQii/UBC-Insights) - Full-stack application that provides graphical insights into UBC classes & professors datas
 - ⚒  [Pc Part Picker](https://github.com/JerryQii/PCPartPicker) - Full-stack application which serves as centralized hub for managing and analyzing pc parts.
 - 🧭 [SimpleTex](https://github.com/JerryQii/SimpleTeX) - Collaborative platform enabling users to save, share, and simultaneously edit documents with LaTex in real-time
-- 👨‍💻 [Calorie Tracker](https://github.com/JerryQii/CalorieCounter) - User-friendly application which facilitates easy monitoring of daily calorie intake and gives feedback.
+- 👨‍💻 [Macro Tracker](https://github.com/JerryQii/MacroTracker) - User-friendly application which facilitates easy monitoring of daily macronutrients intake and gives feedback.
 
 
 
